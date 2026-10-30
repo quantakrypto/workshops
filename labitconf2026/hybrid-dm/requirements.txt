@@ -1,0 +1,4 @@
+cffi==2.1.1
+cryptography==50.0.2
+liboqs-python @ git+https://github.com/open-quantum-safe/liboqs-python.git@64c76ad0a80d6c69f2003219eb27b253782a3d68
+pycparser==3.12
